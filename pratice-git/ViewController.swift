@@ -18,3 +18,6 @@ class ViewController: UIViewController {
 
 }
 
+var marnie = "Marnie"
+
+print("\(marnie)")
